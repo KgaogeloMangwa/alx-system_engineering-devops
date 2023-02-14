@@ -1,1 +1,1 @@
-script to duplicate last line
+script to delete all javascrip files
