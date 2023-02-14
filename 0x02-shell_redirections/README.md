@@ -1,1 +1,1 @@
-script to display words that do not contain the bin pattern
+script to display all the lines of a file starting with a letter
