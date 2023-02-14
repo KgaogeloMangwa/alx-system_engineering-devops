@@ -1,1 +1,1 @@
-script to display lastlines
+script to display the third line of iacta
