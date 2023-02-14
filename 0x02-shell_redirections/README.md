@@ -1,1 +1,1 @@
-script that counts directories and sub directories
+script to display 10 new files in a directory
