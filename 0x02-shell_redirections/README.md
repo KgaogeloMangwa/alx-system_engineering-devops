@@ -1,1 +1,1 @@
-scipt to Display lines containing the pattern “root” and 3 lines after them in the file
+script to display words that do not contain the bin pattern
