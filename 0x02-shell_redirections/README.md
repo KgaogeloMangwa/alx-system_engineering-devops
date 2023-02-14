@@ -1,1 +1,1 @@
-script to delete all javascrip files
+script that counts directories and sub directories
