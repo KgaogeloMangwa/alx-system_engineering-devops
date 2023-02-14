@@ -1,1 +1,1 @@
-script to display all the lines of a file starting with a letter
+ script to Replace all characters A and c from input to Z and e respectively.
