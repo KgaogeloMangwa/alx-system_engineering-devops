@@ -1,1 +1,1 @@
-script to display two files
+script to display last lines of a file
