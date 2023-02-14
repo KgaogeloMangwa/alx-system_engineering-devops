@@ -1,1 +1,1 @@
-script to display last lines of a file
+script to display lastlines
