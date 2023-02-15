@@ -1,1 +1,1 @@
-script to path
+script that counts the number of directories in the path
