@@ -1,1 +1,1 @@
- a script that prints a nimber with two decimal places
+a script that converts a number from base 10 to base 16
